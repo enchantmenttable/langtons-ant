@@ -1,11 +1,3 @@
-# TODO: tkinter - this may help (adding matplotlib plot to tkinter) https://stackoverflow.com/questions/31440167/placing-plot-on-tkinter-main-window-in-python
-# TODO: speed up, speed down while running
-# TODO: save as image
-# TODO: save as gif (from x step to y step)
-# TODO: grid can grow (or shrink) dynamically
-# TODO: hexagon grid
-# TODO: show the ant's direction - may need to use other method other than matplotlib
-
 from matplotlib.animation import FuncAnimation
 import matplotlib.pyplot as plt
 import numpy as np
