@@ -1,5 +1,5 @@
 # langtons-ant
-A Langton's Ant simulation.
+A (Langton's Ant)[https://en.wikipedia.org/wiki/Langton%27s_ant] simulation.
 
 # TODO
 ### Improvement
